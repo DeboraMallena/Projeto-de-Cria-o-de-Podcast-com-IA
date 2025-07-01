@@ -9,7 +9,7 @@ Projeto com o objetivo de **gerar um podcast utilizando ferramentas de IA** atra
 ## 💻 Tecnologias Utilizadas no Projeto
 
 - **ChatGPT** – Geração de roteiro
-- **Piclumen** – Criação de capas
+- **ChatGPT** – Criação de capas
 - **Google IA Studio** – Voz e áudio do podcast
 - **CapCut** – Edição de áudio e adição de trilha sonora
 
@@ -19,7 +19,7 @@ Projeto com o objetivo de **gerar um podcast utilizando ferramentas de IA** atra
 
 1. **Roteiro** gerado via ChatGPT  
 2. **Áudio** gerado pelo Google IA Studio com base no roteiro  
-3. **Imagens de capa** criadas com Piclumen  
+3. **Imagens de capa** criadas com ChatGPT  
 4. **Edição final** realizada no CapCut (sons de fundo e ajustes)
 
 ---
@@ -32,7 +32,7 @@ Utilize os prompts disponíveis para **criar um podcast automatizado** seguindo 
 
 🤖 **1.** Use os prompts de roteiro no **ChatGPT**  
 🤖 **2.** Pegue o roteiro gerado e insira no **Google IA Studio** para criar a narração  
-🤖 **3.** Use os prompts visuais no **Piclumen** para gerar a capa do episódio  
+🤖 **3.** Use os prompts visuais no **ChatGPT** para gerar a capa do episódio  
 
 ---
 
